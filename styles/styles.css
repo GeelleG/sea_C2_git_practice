@@ -5,3 +5,7 @@ h1 {
     background-color: yellow;
     transform: rotate(20deg);
   }
+
+h3{
+    color: navy;
+  }
